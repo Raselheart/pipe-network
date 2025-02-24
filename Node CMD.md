@@ -23,7 +23,7 @@ mkdir download_cache
 # Sign-up With Command
 
 ```
-./pop --signup-by-referral-route fda01c7aa9454680
+./pop --signup-by-referral-route 1c6bef0c668ec921
 ```
 
 # Start The Node
